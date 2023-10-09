@@ -24,7 +24,7 @@ With a background in diverse job experience, I pride myself on being the lynchpi
   
 ### 🌐 Connect with Me:
 
-[![LinkedIn Badge](https://img.shields.io/badge/-duyentran14-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/duyentran14/)](https://www.linkedin.com/in/duyentran14//)
+[![LinkedIn Badge](https://img.shields.io/badge/-DUYENTRAN-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/duyentran14/)](https://www.linkedin.com/in/duyentran14//)
 
 ### 🎯 Looking Forward:
 
