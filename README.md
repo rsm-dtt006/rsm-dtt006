@@ -3,7 +3,7 @@
 ## 🌟 About Me
 
 I bridge the gap between IT and business, translating complex business needs into actionable technical requirements. 
-With a background in both domains, I pride myself on being the lynchpin that ensures project success.
+With a background in diverse job experience, I pride myself on being the lynchpin that ensures project success.
 
 - 📊 Currently leveraging data analytics to drive business improvements.
 - 📘 Continuing my learning journey in data science to enrich my BA toolkit at UC San Diego.
