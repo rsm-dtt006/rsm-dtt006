@@ -15,7 +15,7 @@ With a background in diverse job experience, I pride myself on being the lynchpi
 
 - **Documentation**: User Stories, Use Cases
 - **Operation Systems**: Microsoft Windows, Mac OS
-- **Data Analysis**: Excel, SQL, PostgreSQL, Python(Pandas, Numpy, Scipy, Matplotlib), R(Tidyverse)
+- **Data Analysis**: Excel, SQL, PostgreSQL, Python(Especially: Pandas, Numpy, Scipy, Matplotlib), R(Especially: Tidyverse, Simmer)
 
 ### 📈 Some of My Work:
 
