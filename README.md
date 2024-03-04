@@ -17,10 +17,6 @@ With a background in diverse job experience, I pride myself on being the lynchpi
 - **Operation Systems**: Microsoft Windows, Mac OS
 - **Data Analysis**: Excel, SQL, PostgreSQL, Python(Especially: Pandas, Numpy, Scipy, Matplotlib), R(Especially: Tidyverse, Simmer)
 
-### My Github Works
-
-![](https://raw.githubusercontent.com/rsm-dtt006/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
 ### 📈 Some of My Work:
 
 - **Financial Forecasting Tool**: Collaborated with finance experts to develop a tool that predicts quarterly revenue.
