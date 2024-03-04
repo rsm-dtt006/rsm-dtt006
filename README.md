@@ -18,6 +18,9 @@ With a background in diverse job experience, I pride myself on being the lynchpi
 - **Data Analysis**: Excel, SQL, PostgreSQL, Python(Especially: Pandas, Numpy, Scipy, Matplotlib), R(Especially: Tidyverse, Simmer)
 
 ### My Github Works
+
+![](https://raw.githubusercontent.com/rsm-dtt006/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
 [![Duyen Tran's GitHub stats](https://github-readme-stats.vercel.app/api?username=rsm-dtt006&hide=prs,issues&show_icons=true&theme=radical)](https://github.com/rsm-dtt006/github-readme-stats)
 
 ### 📈 Some of My Work:
