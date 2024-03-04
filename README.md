@@ -21,8 +21,6 @@ With a background in diverse job experience, I pride myself on being the lynchpi
 
 ![](https://raw.githubusercontent.com/rsm-dtt006/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
-[![Duyen Tran's GitHub stats](https://github-readme-stats.vercel.app/api?username=rsm-dtt006&hide=prs,issues&show_icons=true&theme=radical)](https://github.com/rsm-dtt006/github-readme-stats)
-
 ### 📈 Some of My Work:
 
 - **Financial Forecasting Tool**: Collaborated with finance experts to develop a tool that predicts quarterly revenue.
